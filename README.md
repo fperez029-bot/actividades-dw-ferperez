@@ -1,2 +1,2 @@
-# actividades-dw-ferperez
+# Actividades en clase Fernando Pérez Torres
 Este repositorio es creado con el objetivo de realizar actividad en la materia de diseño web
